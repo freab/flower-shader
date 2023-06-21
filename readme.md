@@ -1,6 +1,6 @@
 # Flower shader
 
-this is a an experimnet to utilize and shaders draw an interactive flower on a canvas using WebGL.
+this is a an experimnet to utilize shaders and draw an interactive flower on a canvas using WebGL.
 
 ## Setup
 
